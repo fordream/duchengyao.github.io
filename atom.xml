@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[S1NH's Blog]]></title>
+  <subtitle><![CDATA[S1NH's Blog]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://hbyls.org/"/>
+  <updated>2015-09-05T13:07:17.000Z</updated>
+  <id>http://hbyls.org/</id>
+  
+  <author>
+    <name><![CDATA[S1NH]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[深度改造墨标 013-4602]]></title>
+    <link href="http://hbyls.org/post/fender/"/>
+    <id>http://hbyls.org/post/fender/</id>
+    <published>2015-09-02T09:23:12.000Z</published>
+    <updated>2015-09-05T13:07:17.000Z</updated>
+    <content type="html"><![CDATA[<p>也许是审美疲劳了，暑假的时候深度改造了我的琴.</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_FenderOrigional.jpg" alt=""></p>
+<h2 id="第一步">第一步</h2><p>更换了Gotoh旋钮，既可以自锁，又能调节高度；更换Kahler琴桥；安装223的油浸电容</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_FenderGotoh.jpg" alt=""></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Fender20150806Wiring.jpg" alt=""></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Fender20150806Side.jpg" alt=""></p>
+<p>成型后就是这样了</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Fender20150806Main.jpg" alt=""></p>
+<h2 id="第二步">第二步</h2><p>当然，上面仅仅是刚刚开始。</p>
+<p>然后，我又上网淘了一块儿蓝色硝基漆的AllParts的单块岑木(ASH)琴体；Wilkinson VS100琴桥；含有S1开关的Fender N3 Noiseless 拾音器套装。</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Allparts_ASH_Body.jpg" alt=""></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Wilkinson_VS100_Bridge.jpg" alt=""></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_N3_Noiseless_With_S1_Switch.jpg" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>也许是审美疲劳了，暑假的时候深度改造了我的琴.</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_FenderOrigional.jpg" alt=""></p>
+<h2 id="第一步">第一步</h2]]>
+    </summary>
+    
+      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Fender S-1 开关的接法]]></title>
+    <link href="http://hbyls.org/post/Fender_S-1_WiringDiagram/"/>
+    <id>http://hbyls.org/post/Fender_S-1_WiringDiagram/</id>
+    <published>2015-09-02T06:29:25.000Z</published>
+    <updated>2015-09-05T12:36:08.000Z</updated>
+    <content type="html"><![CDATA[<p>最近在改造吉他的电路，找到了几个有关的网站：</p>
+<ul>
+<li><a href="http://www.seymourduncan.com/support/wiring-diagrams/" target="_blank" rel="external">Seymour Duncan wiring-diagrams/</a>：Seymour Duncan 官方的电路参考，在这里可以找到各种配置的电路，特别强大。这个网站刚刚改版，看起来比之前人性化许多。</li>
+<li><a href="http://www.deluxeguitar.com/" target="_blank" rel="external">Deluxe Guitar</a>：包含了美豪的电路、琴颈形状、旋钮、音色试听等各种信息。</li>
+<li><a href="http://guitarwiring.blogspot.jp/" target="_blank" rel="external">The Guitar Wiring Blog</a>：各种各样奇奇怪怪的吉他电路图。</li>
+<li><a href="http://www.premierguitar.com/articles/Mod_Garage_The_Fender_S_1_Switching_System" target="_blank" rel="external">Mod Garage The Fender S-1 Switching System</a>：这个帖子是介绍S-1开关的</li>
+</ul>
+<p>下面是从fender官网搜集的4个不同型号的Fender Deluxe St电路图：</p>
+<p><a href="http://7xlieb.com1.z0.glb.clouddn.com/Blog_011-8102A_SISD.pdf" target="_blank" rel="external">011-8102A_SISD.pdf</a></p>
+<p><a href="http://7xlieb.com1.z0.glb.clouddn.com/Blog_011-9000B_SISD.pdf" target="_blank" rel="external">011-9000B_SISD.pdf</a></p>
+<p><a href="http://7xlieb.com1.z0.glb.clouddn.com/Blog_011-9100A_SISD.pdf" target="_blank" rel="external">011-9100A_SISD.pdf</a></p>
+<p><a href="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Fender_Am_Dlx_Stratocaster_HSS_Shawbucker_011911XXXX_Service_Manual.pdf" target="_blank" rel="external">Fender_011911XXXX_Service_Manual.pdf</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>最近在改造吉他的电路，找到了几个有关的网站：</p>
+<ul>
+<li><a href="http://www.seymourduncan.com/support/wiring-diagrams/" target="_blank" rel="external">Seymou]]>
+    </summary>
+    
+      <category term="S1" scheme="http://hbyls.org/tags/S1/"/>
+    
+      <category term="fender" scheme="http://hbyls.org/tags/fender/"/>
+    
+      <category term="wiring diagram" scheme="http://hbyls.org/tags/wiring-diagram/"/>
+    
+      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[GuitarFreak，一个可以模拟吉他电路对频响曲线影响的软件]]></title>
+    <link href="http://hbyls.org/post/GuitarFreak/"/>
+    <id>http://hbyls.org/post/GuitarFreak/</id>
+    <published>2015-09-01T12:28:58.000Z</published>
+    <updated>2015-09-05T12:36:19.000Z</updated>
+    <content type="html"><![CDATA[<p>在《吉他中国论坛》发现了一个基于Excel的软件，可以模拟拾音器、电路、吉他连线等各环节对频响的影响。</p>
+<p><a href="http://bbs.guitarchina.com/forum.php?mod=viewthread&amp;tid=1936960&amp;pid=26404657&amp;page=2" target="_blank" rel="external">原帖见79楼</a></p>
+<p><a href="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_5_01_040715.xlsm" target="_blank" rel="external">下载地址</a></p>
+<p>原始发布地址：<a href="http://guitarnuts2.proboards.com/thread/3627" target="_blank" rel="external">http://guitarnuts2.proboards.com/thread/3627</a></p>
+<p>下图展示了Hot Humbucker使用<strong>250K电位器（红线）</strong> 与 <strong>500K电位器（绿线）</strong>在旋钮拧到最大时频响的区别：<br><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_Main.png" alt="GuitarFreak_Main"> </p>
+<p>下图展示了各种Tone Control的电路图<br><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_Note.png" alt="GuitarFreak_Note"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>在《吉他中国论坛》发现了一个基于Excel的软件，可以模拟拾音器、电路、吉他连线等各环节对频响的影响。</p>
+<p><a href="http://bbs.guitarchina.com/forum.php?mod=viewthread&amp;tid=1936960&a]]>
+    </summary>
+    
+      <category term="GuitarFreak" scheme="http://hbyls.org/tags/GuitarFreak/"/>
+    
+      <category term="wiring diagram" scheme="http://hbyls.org/tags/wiring-diagram/"/>
+    
+      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://hbyls.org/post/hello-world/"/>
+    <id>http://hbyls.org/post/hello-world/</id>
+    <published>2015-06-22T10:25:50.000Z</published>
+    <updated>2015-09-05T12:36:25.000Z</updated>
+    <content type="html"><![CDATA[<p>放弃了之前的博客平台，采用现在比较流行的<strong>“Hexo+GitHub+七牛”</strong>作为新的博客平台。</p>
+<h2 id="Hexo_Quick_Start">Hexo Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+<h2 id="七牛_Quick_Start">七牛 Quick Start</h2><h3 id="建立配置文件">建立配置文件</h3><p>先建立一个配置文件<code>（JSON格式）</code>，比如叫conf.json，内容如下：</p>
+<pre><code>{
+"<span class="attribute">src</span>":          <span class="value"><span class="string">"/home/your/sync_dir"</span></span>,
+"<span class="attribute">dest</span>":         <span class="value"><span class="string">"qiniu:access_key=&lt;AccessKey&gt;&amp;secret_key=&lt;SecretKey&gt;&amp;bucket=&lt;Bucket&gt;&amp;key_prefix=&lt;KeyPrefix&gt;&amp;threshold=&lt;Threshold&gt;"</span></span>,
+"<span class="attribute">debug_level</span>":  <span class="value"><span class="number">1</span>
+</span>}
+</code></pre><h3 id="同步命令行">同步命令行</h3><p><code>qrsync /path/to/your-conf.json</code></p>
+<h3 id="详细配置方法及API">详细配置方法及API</h3><p>详细配置方法及Api在七牛的官网: <a href="http://developer.qiniu.com/docs/v6/tools/qrsync.html" target="_blank" rel="external">http://developer.qiniu.com/docs/v6/tools/qrsync.html</a></p>
+<h2 id="Markdown_语法">Markdown 语法</h2><p><a href="https://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md" target="_blank" rel="external">Markdown语法</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>放弃了之前的博客平台，采用现在比较流行的<strong>“Hexo+GitHub+七牛”</strong>作为新的博客平台。</p>
+<h2 id="Hexo_Quick_Start">Hexo Quick Start</h2><h3 id="Create_a_new_po]]>
+    </summary>
+    
+      <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
+    
+  </entry>
+  
+</feed>
