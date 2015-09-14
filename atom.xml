@@ -4,7 +4,7 @@
   <subtitle><![CDATA[S1NH's Blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://hbyls.org/"/>
-  <updated>2015-09-13T11:10:14.000Z</updated>
+  <updated>2015-09-14T05:10:26.000Z</updated>
   <id>http://hbyls.org/</id>
   
   <author>
@@ -15,15 +15,60 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[2015.09.08 演出照片]]></title>
+    <link href="http://hbyls.org/post/MentalLiveInVox/"/>
+    <id>http://hbyls.org/post/MentalLiveInVox/</id>
+    <published>2015-09-14T04:45:04.000Z</published>
+    <updated>2015-09-14T05:10:26.000Z</updated>
+    <content type="html"><![CDATA[<p>加入Mental乐队后的第一场演出Live in VoxLiveHouse </p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_11.jpg" alt="Mental"></p>
+<a id="more"></a>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_12.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_13.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_14.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_15.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_16.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_18.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_21.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_22.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_23.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_24.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_25.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_31.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_32.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_41.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_42.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_43.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_44.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_45.jpg" alt="Mental"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>加入Mental乐队后的第一场演出Live in VoxLiveHouse </p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_11.jpg" alt="Mental"></p>]]>
+    
+    </summary>
+    
+      <category term="Mental" scheme="http://hbyls.org/tags/Mental/"/>
+    
+      <category term="Vox" scheme="http://hbyls.org/tags/Vox/"/>
+    
+      <category term="演出" scheme="http://hbyls.org/tags/%E6%BC%94%E5%87%BA/"/>
+    
+      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[红外光学材料均匀性检测仪配套软件]]></title>
     <link href="http://hbyls.org/post/Infrared_optical_material_detector/"/>
     <id>http://hbyls.org/post/Infrared_optical_material_detector/</id>
     <published>2015-09-11T06:43:28.000Z</published>
-    <updated>2015-09-13T11:10:14.000Z</updated>
+    <updated>2015-09-14T05:14:19.000Z</updated>
     <content type="html"><![CDATA[<h2 id="算法">算法</h2><h3 id="一个线性时间复杂度的直线检测算法">一个线性时间复杂度的直线检测算法</h3><p>源于一篇IPOL的文章<em><a href="http://www.ipol.im/pub/art/2012/gjmr-lsd/" target="_blank" rel="external">LSD: a Line Segment Detector</a></em>；几个大神的学习日志：<a href="http://blog.csdn.net/polly_yang/article/details/10085401" target="_blank" rel="external">论文回顾之一 一种新的直线段检测算法—-LSD：a Line Segment Detector</a>，<a href="http://blog.csdn.net/tianwaifeimao/article/details/17678669" target="_blank" rel="external">基于LSD的直线提取算法</a></p>
 <p>说实话，并没有看懂其中的原理，只知道这是一种新的直线检测算法LSD。它可以快速的检测图像中的直线段，然后根据目标的几何特征设计快速算法，以快速确定疑似目标区域。</p>
 <p>作者提供了C语言的代码及样例。</p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_LSD_1.jpeg" alt=""></p>
+<a id="more"></a>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_LSD_2.jpeg" alt=""></p>
 <h3 id="直线检测Demo">直线检测Demo</h3><p>起初导师让我做一个Demo，当时我对微软的东西比较感兴趣，就用.Net Framework来做。</p>
 <p>Demo开发过程中采用了C#，C混合编程，用</p>
@@ -36,7 +81,11 @@
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Glass_1.png" alt=""></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h2 id="算法">算法</h2><h3 id="一个线性时间复杂度的直线检测算法">一个线性时间复杂度的直线检测算法</h3><p>源于一篇IPOL的文章<em><a href="http://www.ipol.im/pub/art/2012/gjmr-lsd/" targ]]>
+    <![CDATA[<h2 id="算法">算法</h2><h3 id="一个线性时间复杂度的直线检测算法">一个线性时间复杂度的直线检测算法</h3><p>源于一篇IPOL的文章<em><a href="http://www.ipol.im/pub/art/2012/gjmr-lsd/">LSD: a Line Segment Detector</a></em>；几个大神的学习日志：<a href="http://blog.csdn.net/polly_yang/article/details/10085401">论文回顾之一 一种新的直线段检测算法—-LSD：a Line Segment Detector</a>，<a href="http://blog.csdn.net/tianwaifeimao/article/details/17678669">基于LSD的直线提取算法</a></p>
+<p>说实话，并没有看懂其中的原理，只知道这是一种新的直线检测算法LSD。它可以快速的检测图像中的直线段，然后根据目标的几何特征设计快速算法，以快速确定疑似目标区域。</p>
+<p>作者提供了C语言的代码及样例。</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_LSD_1.jpeg" alt=""></p>]]>
+    
     </summary>
     
       <category term="LSD" scheme="http://hbyls.org/tags/LSD/"/>
@@ -54,9 +103,10 @@
     <link href="http://hbyls.org/post/Fender/"/>
     <id>http://hbyls.org/post/Fender/</id>
     <published>2015-09-02T09:23:12.000Z</published>
-    <updated>2015-09-11T06:43:11.000Z</updated>
+    <updated>2015-09-14T05:13:13.000Z</updated>
     <content type="html"><![CDATA[<p>也许是审美疲劳了，暑假的时候深度改造了我的琴.</p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_FenderOrigional.jpg" alt=""></p>
+<a id="more"></a>
 <h2 id="第一步">第一步</h2><h3 id="Gotoh旋钮">Gotoh旋钮</h3><p>更换的旋钮型号是 SG381 H.A.P-M，<em>H.A.P-M</em>的全称是<em>Height Adjustable Post with Magnum Lock</em>。这个旋钮既可以调节高度，又可以锁弦，应该是Gotoh科技含量最高的旋钮了。</p>
 <p>比起510系列，SG381又有它不到一半的价格，特别亲民。</p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Gotoh_DSL.png" alt=""></p>
@@ -86,8 +136,8 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p>也许是审美疲劳了，暑假的时候深度改造了我的琴.</p>
-<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_FenderOrigional.jpg" alt=""></p>
-<h2 id="第一步">第一步</h2]]>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_FenderOrigional.jpg" alt=""></p>]]>
+    
     </summary>
     
       <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
@@ -99,8 +149,9 @@
     <link href="http://hbyls.org/post/Fender_S-1_WiringDiagram/"/>
     <id>http://hbyls.org/post/Fender_S-1_WiringDiagram/</id>
     <published>2015-09-02T06:29:25.000Z</published>
-    <updated>2015-09-11T07:00:33.000Z</updated>
-    <content type="html"><![CDATA[<p>最近在改造吉他的电路，找到了几个有关的网站：</p>
+    <updated>2015-09-14T05:12:39.000Z</updated>
+    <content type="html"><![CDATA[<p>最近在改造吉他的电路，搜集了一些关于拾音器电路的网站：</p>
+<a id="more"></a>
 <ul>
 <li><a href="http://www.seymourduncan.com/support/wiring-diagrams/" target="_blank" rel="external">Seymour Duncan wiring-diagrams/</a>：Seymour Duncan 官方的电路参考，在这里可以找到各种配置的电路，特别强大。这个网站刚刚改版，看起来比之前人性化许多。</li>
 <li><a href="http://www.deluxeguitar.com/" target="_blank" rel="external">Deluxe Guitar</a>：包含了美豪的电路、琴颈形状、旋钮、音色试听等各种信息。</li>
@@ -114,9 +165,8 @@
 <p><a href="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Fender_Am_Dlx_Stratocaster_HSS_Shawbucker_011911XXXX_Service_Manual.pdf" target="_blank" rel="external">Fender_011911XXXX_Service_Manual.pdf</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>最近在改造吉他的电路，找到了几个有关的网站：</p>
-<ul>
-<li><a href="http://www.seymourduncan.com/support/wiring-diagrams/" target="_blank" rel="external">Seymou]]>
+    <![CDATA[<p>最近在改造吉他的电路，搜集了一些关于拾音器电路的网站：</p>]]>
+    
     </summary>
     
       <category term="S1" scheme="http://hbyls.org/tags/S1/"/>
@@ -134,17 +184,19 @@
     <link href="http://hbyls.org/post/GuitarFreak/"/>
     <id>http://hbyls.org/post/GuitarFreak/</id>
     <published>2015-09-01T12:28:58.000Z</published>
-    <updated>2015-09-05T12:36:19.000Z</updated>
+    <updated>2015-09-14T05:13:49.000Z</updated>
     <content type="html"><![CDATA[<p>在《吉他中国论坛》发现了一个基于Excel的软件，可以模拟拾音器、电路、吉他连线等各环节对频响的影响。</p>
+<p>下图展示了Hot Humbucker使用<strong>250K电位器（红线）</strong> 与 <strong>500K电位器（绿线）</strong>在旋钮拧到最大时频响的区别：<br><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_Main.png" alt="GuitarFreak_Main"> </p>
+<a id="more"></a>
+<p>下图展示了各种Tone Control的电路图<br><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_Note.png" alt="GuitarFreak_Note"></p>
 <p><a href="http://bbs.guitarchina.com/forum.php?mod=viewthread&amp;tid=1936960&amp;pid=26404657&amp;page=2" target="_blank" rel="external">原帖见79楼</a></p>
 <p><a href="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_5_01_040715.xlsm" target="_blank" rel="external">下载地址</a></p>
 <p>原始发布地址：<a href="http://guitarnuts2.proboards.com/thread/3627" target="_blank" rel="external">http://guitarnuts2.proboards.com/thread/3627</a></p>
-<p>下图展示了Hot Humbucker使用<strong>250K电位器（红线）</strong> 与 <strong>500K电位器（绿线）</strong>在旋钮拧到最大时频响的区别：<br><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_Main.png" alt="GuitarFreak_Main"> </p>
-<p>下图展示了各种Tone Control的电路图<br><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_Note.png" alt="GuitarFreak_Note"></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>在《吉他中国论坛》发现了一个基于Excel的软件，可以模拟拾音器、电路、吉他连线等各环节对频响的影响。</p>
-<p><a href="http://bbs.guitarchina.com/forum.php?mod=viewthread&amp;tid=1936960&a]]>
+<p>下图展示了Hot Humbucker使用<strong>250K电位器（红线）</strong> 与 <strong>500K电位器（绿线）</strong>在旋钮拧到最大时频响的区别：<br><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_GuitarFreak_Main.png" alt="GuitarFreak_Main"> </p>]]>
+    
     </summary>
     
       <category term="GuitarFreak" scheme="http://hbyls.org/tags/GuitarFreak/"/>
@@ -160,8 +212,9 @@
     <link href="http://hbyls.org/post/hello-world/"/>
     <id>http://hbyls.org/post/hello-world/</id>
     <published>2015-06-22T10:25:50.000Z</published>
-    <updated>2015-09-05T12:36:45.000Z</updated>
+    <updated>2015-09-14T05:16:29.000Z</updated>
     <content type="html"><![CDATA[<p>放弃了之前的博客平台，采用现在比较流行的<strong>“Hexo+GitHub+七牛”</strong>作为新的博客平台。</p>
+<a id="more"></a>
 <h2 id="Hexo_Quick_Start">Hexo Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
@@ -181,8 +234,8 @@
 <h2 id="Markdown_语法">Markdown 语法</h2><p><a href="https://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md" target="_blank" rel="external">Markdown语法</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>放弃了之前的博客平台，采用现在比较流行的<strong>“Hexo+GitHub+七牛”</strong>作为新的博客平台。</p>
-<h2 id="Hexo_Quick_Start">Hexo Quick Start</h2><h3 id="Create_a_new_po]]>
+    <![CDATA[<p>放弃了之前的博客平台，采用现在比较流行的<strong>“Hexo+GitHub+七牛”</strong>作为新的博客平台。</p>]]>
+    
     </summary>
     
       <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
@@ -194,10 +247,11 @@
     <link href="http://hbyls.org/post/Wang_Anyi_Interview/"/>
     <id>http://hbyls.org/post/Wang_Anyi_Interview/</id>
     <published>2014-11-20T08:15:00.000Z</published>
-    <updated>2015-09-06T10:24:21.000Z</updated>
+    <updated>2015-09-14T05:15:11.000Z</updated>
     <content type="html"><![CDATA[<p>11月18日下午，著名作家王安忆来到华中师范大学进行学术访问，并应文学院院长胡亚敏之邀参加了于文学院三楼会议室举办的小型座谈会。文学院院长胡亚敏，文学院老师孟军、万娜、徐敏、魏天无、魏天真、郑保纯以及众多本科生、硕士生等均参与其中，以一问一答的形式与王老师亲密互动沟通，分享文学见地。</p>
-<p>下午三时三刻许，身着一袭干净而素雅的白色风衣的王安忆与胡亚敏院长相携步入会议室，座谈会正式开始。在全场的热烈掌声后，胡亚敏院长开始回忆读王安忆作品的回忆和感悟，她开玩笑道：“知道今天王老师要来，昨晚兴奋得一夜没睡好，看《天香》看到了凌晨两三点！”院长感慨，她似乎永远无法把握王安忆的写作风格，从《小鲍庄》到《小城之恋》，再到《天香》，“我们已经不能以单调的某一种风格，一种文体来衡量王老师的作品”。复旦大学著名教授梁永安先生曾说：“从文学批评的角度看，王安忆属于那种很难‘追踪’的作家。她的小说题材山重水复，永远看不清她的下一个里程。”</p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Wang_Anyi_interview.jpeg" alt=""></p>
+<a id="more"></a>
+<p>下午三时三刻许，身着一袭干净而素雅的白色风衣的王安忆与胡亚敏院长相携步入会议室，座谈会正式开始。在全场的热烈掌声后，胡亚敏院长开始回忆读王安忆作品的回忆和感悟，她开玩笑道：“知道今天王老师要来，昨晚兴奋得一夜没睡好，看《天香》看到了凌晨两三点！”院长感慨，她似乎永远无法把握王安忆的写作风格，从《小鲍庄》到《小城之恋》，再到《天香》，“我们已经不能以单调的某一种风格，一种文体来衡量王老师的作品”。复旦大学著名教授梁永安先生曾说：“从文学批评的角度看，王安忆属于那种很难‘追踪’的作家。她的小说题材山重水复，永远看不清她的下一个里程。”</p>
 <p><code>Q1、“现在有太多的小说被改编成电影电视或者话剧，那么王老师您是怎么看待自己的小说被改编成影视作品的呢？”</code></p>
 <p>王安忆教授回忆，她早年的两部作品曾被北京电影学院导演系的学生改编为毕业影视作品，而当她成为成熟的职业作家后，影视随时代变化受到商业化的冲击，她的小说则很难被改编为十分优秀的影视作品了，她认为自己小说更适合探索性，实验性的影视作品。王安忆教授最广为人知的长篇小说《长恨歌》，其中具有通俗文化的元素，被香港导演关锦鹏拍为电影，但王安忆教授本人最重视的小说结局部分，其对美学的颠覆和反讽，对真实残酷命运的反映，复杂的电影手段和电影商业化的考虑却无法与之契合。对此，她戏称道：“哎，拿到钱就算了，那些人要怎么搞，你就别管了！”对于根据《长恨歌》改编的同名电视剧，她也持同样的态度，“那是对浪漫上海生活的过分想像，在《长恨歌》的外壳里装了太多主观的想法。”而当谈到根据《长恨歌》改编的戏剧时，她表示十分欣赏：“我个人认为，戏剧是文学的最高峰。小说处理时间，而戏剧处理空间。”要将充满想象的文学作品改编为戏剧作品具有非常大的难度，其中对场景，作为客观描述者的评价，情节和浪漫主义情怀都需要做出合理的删改，化含蓄为明朗，化抽象为具象，以戏剧化情节丰富叙述语言。“好在《长恨歌》戏剧版的编剧很尊重我，我个人也改编过剧本，”她不好意思地笑笑，“我第一次改的剧本是张爱玲的《金锁记》。”将著名小说改编为剧本是个十分具有挑战性的任务，戏剧限制性大，跌宕起伏的故事和纷繁复杂的关系必须在简练的对白中精彩体现。“我当时把修改的第一版剧本拿给黄蜀芹拍，她还不愿意，”王安忆教授可爱地说，“反正她是我前辈，我也不敢把她怎么样！”后来，她反复修改剧本，强化戏剧性并遵循初衷，最终在第三稿时被黄蜀芹导演采用。改编剧本的体验，令她对文学的体悟又深了一层。</p>
 <p><code>Q2：“在这个‘娱乐至死’的时代，王安忆教授的文学创作是否受到了影响，又是否曾产生对文学意义追寻和对作家身份的疑惑？”</code></p>
@@ -214,7 +268,9 @@
 <p>会后，到场学生与老师跟王安忆教授在文学院前合影，为此次王安忆教授的“华师行”留下浓墨重彩的一笔。</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>11月18日下午，著名作家王安忆来到华中师范大学进行学术访问，并应文学院院长胡亚敏之邀参加了于文学院三楼会议室举办的小型座谈会。文学院院长胡亚敏，文学院老师孟军、万娜、徐敏、魏天无、魏天真、郑保纯以及众多本科生、硕士生等均参与其中，以一问一答的形式与王老师亲密互动沟通，分享]]>
+    <![CDATA[<p>11月18日下午，著名作家王安忆来到华中师范大学进行学术访问，并应文学院院长胡亚敏之邀参加了于文学院三楼会议室举办的小型座谈会。文学院院长胡亚敏，文学院老师孟军、万娜、徐敏、魏天无、魏天真、郑保纯以及众多本科生、硕士生等均参与其中，以一问一答的形式与王老师亲密互动沟通，分享文学见地。</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Wang_Anyi_interview.jpeg" alt=""></p>]]>
+    
     </summary>
     
       <category term="古月雨" scheme="http://hbyls.org/categories/%E5%8F%A4%E6%9C%88%E9%9B%A8/"/>
@@ -226,19 +282,22 @@
     <link href="http://hbyls.org/post/Rhinoceros_in_Love/"/>
     <id>http://hbyls.org/post/Rhinoceros_in_Love/</id>
     <published>2014-11-06T06:07:00.000Z</published>
-    <updated>2015-09-05T13:53:22.000Z</updated>
+    <updated>2015-09-14T05:14:42.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>你是我温暖的手套，冰冷的啤酒<br>带着太阳光气息的衬衫，日复一日的梦想</p>
 </blockquote>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Rhinoceros_in_Love_Ticket.JPG" alt="Rhinoceros in Love"></p>
 <p>新版《恋爱的犀牛》全国巡演武汉站，震撼。我们或许都曾经像那样痴言妄语过，只是最后软弱地败下阵来，然后淹死在茫茫人海里。就剩下那个困兽犹斗的马路，依然头破血流地伫立在舞台上，撩拨起我心里最后的那点火焰。</p>
+<a id="more"></a>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Rhinoceros_in_Love_Intro.JPG" alt="Rhinoceros in Love"></p>
 <embed src="http://player.video.qiyi.com/1589f3e4fe8511dfaa6aa4badb2c35a1/0/0/v_19rrifvkmy.swf-albumId=615500-tvId=755286-isPurchase=0-cnId=6" allowfullscreen="true" quality="high" width="620" height="500" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash">]]></content>
     <summary type="html">
     <![CDATA[<blockquote>
 <p>你是我温暖的手套，冰冷的啤酒<br>带着太阳光气息的衬衫，日复一日的梦想</p>
 </blockquote>
-<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Rhinoceros_in]]>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Rhinoceros_in_Love_Ticket.JPG" alt="Rhinoceros in Love"></p>
+<p>新版《恋爱的犀牛》全国巡演武汉站，震撼。我们或许都曾经像那样痴言妄语过，只是最后软弱地败下阵来，然后淹死在茫茫人海里。就剩下那个困兽犹斗的马路，依然头破血流地伫立在舞台上，撩拨起我心里最后的那点火焰。</p>]]>
+    
     </summary>
     
       <category term="古月雨" scheme="http://hbyls.org/categories/%E5%8F%A4%E6%9C%88%E9%9B%A8/"/>
@@ -250,9 +309,10 @@
     <link href="http://hbyls.org/post/The_Piano_in_a_Factory/"/>
     <id>http://hbyls.org/post/The_Piano_in_a_Factory/</id>
     <published>2014-10-31T05:10:00.000Z</published>
-    <updated>2015-09-05T13:51:32.000Z</updated>
+    <updated>2015-09-14T05:14:49.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_The_Piano_in_a_Factory.jpeg" alt="The Piano in a Factory"></p>
 <p>影片在陈桂林和小菊的离婚商议中拉开帷幕，他们为了孩子的抚养权归谁而站在那里。小菊的身后是一只完整的翅膀，然而陈桂林身后却是一只残破不堪只有骨架的翅膀。紧接着是两根烟囱冒出滚滚浓烟的画面，陈桂林就在这个时候和他的老哥们儿一起被社会抛弃。为了讨生口，他组建了一个办丧礼的小乐队。</p>
+<a id="more"></a>
 <p>那场葬礼是个喜丧，工人们想吹《三套车》，让老人在冰河上再跑一会，家属们却想要高兴一点的，于是一曲步步高、一个大火球，在巨大工业废墟上搭建起简易的灵堂，我们就这么敲锣打鼓走进了新时代。自此，工人阶级不再是历史的主体，而成了历史的包袱。于是，在工人的物质废墟上，主流的表述又给他们覆盖上一层精神的废墟。工人成了改革开放的废品。社会主义的三十年对于工人来说究竟意味着什么，仅仅是国家资本主义的工业化历程么？他给我们留下怎样的遗产，这些遗产真的死去了么？在这个超现实的集体造钢琴的故事里，蕴藏了许多从历史面向未来的可能性。<br>现实正像片中西方乐器不得不演奏民乐“步步高”的一地鸡毛，原本坚持的东西却如被爆破的工厂烟囱，无论努力拯救与否，它都要坍倒，弥漫起挥之不去的烟尘。</p>
 <p>这群被冠以“工人阶级”名号的人们，曾经被捧上天，如今被杀入地，他们作为牺牲品不知道该找谁去诉苦，更不知道该找谁去负责。中国人是务实的，捧上天杀不死他，可断了粮就要出事了。工人们在他们所熟悉的黑土地上的各个角落里辛苦觅食，不再知道自己是什么阶级，而对曾经所属的“工人阶级”和工厂仍旧心存一丝情愫，所以电影里的工人们大多不愿意钢厂的两根烟囱被炸掉，尽管最终炸掉时大家并未表露出悲伤，但他们的脸上分明写满了无奈。两根烟囱在充当了短暂的纪念碑角色后轰然倒下，一起拽倒的是这群人曾经的梦和仅存的念想。</p>
 <p>钢的琴的诞生，是这座工厂自计划经济以来重工业辉煌至改革开放后没落的最后一次分娩：当钢琴的创造者们集体以静驻凝视、侧耳倾听的方式对待那本不属于工厂可能发出的清脆声音时，也是对重工业时代的一次默默的送葬：相比之陈桂林老父亲的悄然离去的无声息，因时代变革而走向淘汰的重工业时代就像那两只定向爆破的烟囱，虽曾傲立宇中、万众瞩目，也只能在朗诵、目送和叹息中化为尘埃。</p>
@@ -270,7 +330,8 @@
 ]]></content>
     <summary type="html">
     <![CDATA[<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_The_Piano_in_a_Factory.jpeg" alt="The Piano in a Factory"></p>
-<p>影片在陈桂林和小菊的离婚商议中拉开帷]]>
+<p>影片在陈桂林和小菊的离婚商议中拉开帷幕，他们为了孩子的抚养权归谁而站在那里。小菊的身后是一只完整的翅膀，然而陈桂林身后却是一只残破不堪只有骨架的翅膀。紧接着是两根烟囱冒出滚滚浓烟的画面，陈桂林就在这个时候和他的老哥们儿一起被社会抛弃。为了讨生口，他组建了一个办丧礼的小乐队。</p>]]>
+    
     </summary>
     
       <category term="古月雨" scheme="http://hbyls.org/categories/%E5%8F%A4%E6%9C%88%E9%9B%A8/"/>
@@ -282,8 +343,9 @@
     <link href="http://hbyls.org/post/Rainy_Season/"/>
     <id>http://hbyls.org/post/Rainy_Season/</id>
     <published>2014-10-27T11:14:00.000Z</published>
-    <updated>2015-09-06T10:09:53.000Z</updated>
+    <updated>2015-09-14T05:14:31.000Z</updated>
     <content type="html"><![CDATA[<p>连日的大雨像是来到了热带雨林的雨季，匆匆的来，又匆匆地去。</p>
+<a id="more"></a>
 <p>在小小的欢欣中等待着啊，远处的岱山，在雨里映出朦胧的幻影。我仿佛看到那边山头的老农捶打着他佝偻的脊背，似乎是正捶打着他的命运。</p>
 <p>我坐在窗台上，去接窗外的雨水，它流走了，流走了……</p>
 <p>原来是雨季啊。</p>
@@ -309,9 +371,8 @@
 <p>我听见窗外哗啦啦的雨声，一滴一滴击中我的心头，我的心脏开始隐隐作痛，就在雨水一点，一点，淌出心房时，我知道，雨季不会再来了，我长大了。</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>连日的大雨像是来到了热带雨林的雨季，匆匆的来，又匆匆地去。</p>
-<p>在小小的欢欣中等待着啊，远处的岱山，在雨里映出朦胧的幻影。我仿佛看到那边山头的老农捶打着他佝偻的脊背，似乎是正捶打着他的命运。</p>
-<p>我坐在窗台上，去接窗外的雨水，它流走了，流走了……</p>]]>
+    <![CDATA[<p>连日的大雨像是来到了热带雨林的雨季，匆匆的来，又匆匆地去。</p>]]>
+    
     </summary>
     
       <category term="古月雨" scheme="http://hbyls.org/categories/%E5%8F%A4%E6%9C%88%E9%9B%A8/"/>
