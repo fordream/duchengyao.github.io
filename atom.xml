@@ -4,7 +4,7 @@
   <subtitle><![CDATA[S1NH's Blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://hbyls.org/"/>
-  <updated>2015-09-11T06:36:00.000Z</updated>
+  <updated>2015-09-13T11:10:14.000Z</updated>
   <id>http://hbyls.org/</id>
   
   <author>
@@ -15,11 +15,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[红外光学材料均匀性检测仪配套软件]]></title>
+    <link href="http://hbyls.org/post/Infrared_optical_material_detector/"/>
+    <id>http://hbyls.org/post/Infrared_optical_material_detector/</id>
+    <published>2015-09-11T06:43:28.000Z</published>
+    <updated>2015-09-13T11:10:14.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="算法">算法</h2><h3 id="一个线性时间复杂度的直线检测算法">一个线性时间复杂度的直线检测算法</h3><p>源于一篇IPOL的文章<em><a href="http://www.ipol.im/pub/art/2012/gjmr-lsd/" target="_blank" rel="external">LSD: a Line Segment Detector</a></em>；几个大神的学习日志：<a href="http://blog.csdn.net/polly_yang/article/details/10085401" target="_blank" rel="external">论文回顾之一 一种新的直线段检测算法—-LSD：a Line Segment Detector</a>，<a href="http://blog.csdn.net/tianwaifeimao/article/details/17678669" target="_blank" rel="external">基于LSD的直线提取算法</a></p>
+<p>说实话，并没有看懂其中的原理，只知道这是一种新的直线检测算法LSD。它可以快速的检测图像中的直线段，然后根据目标的几何特征设计快速算法，以快速确定疑似目标区域。</p>
+<p>作者提供了C语言的代码及样例。</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_LSD_1.jpeg" alt=""></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_LSD_2.jpeg" alt=""></p>
+<h3 id="直线检测Demo">直线检测Demo</h3><p>起初导师让我做一个Demo，当时我对微软的东西比较感兴趣，就用.Net Framework来做。</p>
+<p>Demo开发过程中采用了C#，C混合编程，用</p>
+<p>下图分别为玻璃内部杂质的条纹图，经过直线检测后生成的图片，对另外一张玻璃杂质进行检测的图片。</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Glass_Origional.png" alt="原始图片"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Glass_LSD.png" alt="直线检测后的图片"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Glass_LSD_2.png" alt="直线检测玻璃杂质"></p>
+<h2 id="系统">系统</h2><p>大四的时候，项目正式立项。</p>
+<h3 id="需求">需求</h3><p>在红外光学显微镜下，放大几百倍的玻璃会清晰的显示出气泡和条纹</p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Glass_1.png" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="算法">算法</h2><h3 id="一个线性时间复杂度的直线检测算法">一个线性时间复杂度的直线检测算法</h3><p>源于一篇IPOL的文章<em><a href="http://www.ipol.im/pub/art/2012/gjmr-lsd/" targ]]>
+    </summary>
+    
+      <category term="LSD" scheme="http://hbyls.org/tags/LSD/"/>
+    
+      <category term="Labview" scheme="http://hbyls.org/tags/Labview/"/>
+    
+      <category term="红外光学材料均匀性检测仪" scheme="http://hbyls.org/tags/%E7%BA%A2%E5%A4%96%E5%85%89%E5%AD%A6%E6%9D%90%E6%96%99%E5%9D%87%E5%8C%80%E6%80%A7%E6%A3%80%E6%B5%8B%E4%BB%AA/"/>
+    
+      <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[深度改造墨标 013-4602]]></title>
     <link href="http://hbyls.org/post/Fender/"/>
     <id>http://hbyls.org/post/Fender/</id>
     <published>2015-09-02T09:23:12.000Z</published>
-    <updated>2015-09-11T06:36:00.000Z</updated>
+    <updated>2015-09-11T06:43:11.000Z</updated>
     <content type="html"><![CDATA[<p>也许是审美疲劳了，暑假的时候深度改造了我的琴.</p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_FenderOrigional.jpg" alt=""></p>
 <h2 id="第一步">第一步</h2><h3 id="Gotoh旋钮">Gotoh旋钮</h3><p>更换的旋钮型号是 SG381 H.A.P-M，<em>H.A.P-M</em>的全称是<em>Height Adjustable Post with Magnum Lock</em>。这个旋钮既可以调节高度，又可以锁弦，应该是Gotoh科技含量最高的旋钮了。</p>
@@ -35,6 +70,8 @@
 <h3 id="Kahler琴桥">Kahler琴桥</h3><p>Kahler X-trem 4300 少数派琴桥，还挺稳定的，做工一般。比起Floyd Rose，它可以调节每跟琴弦的高度，来适应9.5弧度的琴颈。</p>
 <p>网上也找不到它的资料，可能国产的X-trem系列已经被放弃，或者停产了。只找到这一个页面：</p>
 <p><a href="http://www.trevornewhouse.com/scripts/prodView.asp?idproduct=66" target="_blank" rel="external">Kahler 4300</a></p>
+<p><a href="http://www.wammiworld.com/kahlerparts.php" target="_blank" rel="external">这个好像是Kahler官网</a></p>
+<p><a href="http://homerecording.com/bbs/equipment-forums/guitars-and-basses/anyone-here-use-kahler-336909/" target="_blank" rel="external">Kahler 的已知问题1</a></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Fender20150806Side.jpg" alt=""></p>
 <h3 id="成型后就是这样了">成型后就是这样了</h3><p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Fender20150806Main.jpg" alt=""></p>
 <h2 id="第二步">第二步</h2><p>当然，上面仅仅是刚刚开始。</p>
@@ -62,7 +99,7 @@
     <link href="http://hbyls.org/post/Fender_S-1_WiringDiagram/"/>
     <id>http://hbyls.org/post/Fender_S-1_WiringDiagram/</id>
     <published>2015-09-02T06:29:25.000Z</published>
-    <updated>2015-09-05T12:36:08.000Z</updated>
+    <updated>2015-09-11T07:00:33.000Z</updated>
     <content type="html"><![CDATA[<p>最近在改造吉他的电路，找到了几个有关的网站：</p>
 <ul>
 <li><a href="http://www.seymourduncan.com/support/wiring-diagrams/" target="_blank" rel="external">Seymour Duncan wiring-diagrams/</a>：Seymour Duncan 官方的电路参考，在这里可以找到各种配置的电路，特别强大。这个网站刚刚改版，看起来比之前人性化许多。</li>
