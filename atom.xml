@@ -4,7 +4,7 @@
   <subtitle><![CDATA[S1NH's Blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://hbyls.org/"/>
-  <updated>2015-09-16T09:42:31.000Z</updated>
+  <updated>2015-09-16T09:45:26.000Z</updated>
   <id>http://hbyls.org/</id>
   
   <author>
@@ -15,15 +15,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Lantern]]></title>
+    <title><![CDATA[Lantern V2.0]]></title>
     <link href="http://hbyls.org/post/Lantern/"/>
     <id>http://hbyls.org/post/Lantern/</id>
     <published>2015-09-16T09:40:48.000Z</published>
-    <updated>2015-09-16T09:42:31.000Z</updated>
-    <content type="html"><![CDATA[<p><a href="https://github.com/getlantern/lantern" target="_blank" rel="external">github</a><br><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe" target="_blank" rel="external">Windows</a><br><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg" target="_blank" rel="external">OS X</a></p>
+    <updated>2015-09-16T09:45:26.000Z</updated>
+    <content type="html"><![CDATA[<p>一直以为Lantern会自动升级，最近一直无法正常使用，就去他Github看了一下，居然已经有2.0版了，下载下来试用了一下，貌似不再需要Java环境了。</p>
+<p><a href="https://github.com/getlantern/lantern" target="_blank" rel="external">github</a></p>
+<p><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe" target="_blank" rel="external">Windows</a></p>
+<p><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg" target="_blank" rel="external">OS X</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><a href="https://github.com/getlantern/lantern" target="_blank" rel="external">github</a><br><a href="https://raw.githubusercontent.com/g]]>
+    <![CDATA[<p>一直以为Lantern会自动升级，最近一直无法正常使用，就去他Github看了一下，居然已经有2.0版了，下载下来试用了一下，貌似不再需要Java环境了。</p>
+<p><a href="https://github.com/getlantern/lantern" targ]]>
     </summary>
     
       <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
