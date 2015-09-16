@@ -282,7 +282,7 @@ blockquote {
 img {
   display: block;
   margin: auto 0;
-  max-width: 100%;
+  max-width: 82%;
   height: auto;
 }
 h2,
@@ -579,7 +579,7 @@ td {
   overflow: auto;
   font-size: 13px;
   color: #c5c8c6;
-  line-height: 1.2;
+  line-height: 1.6;
 }
 .post .highlight .gutter pre,
 .post .gist .gist-file .gist-data .line-numbers {
@@ -1055,7 +1055,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4bffff;
+  background: #c90a70;
 }
 .sidebar-nav {
   margin: 0;

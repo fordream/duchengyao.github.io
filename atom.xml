@@ -4,7 +4,7 @@
   <subtitle><![CDATA[S1NH's Blog]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://hbyls.org/"/>
-  <updated>2015-09-14T10:21:12.000Z</updated>
+  <updated>2015-09-16T09:42:31.000Z</updated>
   <id>http://hbyls.org/</id>
   
   <author>
@@ -13,6 +13,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Lantern]]></title>
+    <link href="http://hbyls.org/post/Lantern/"/>
+    <id>http://hbyls.org/post/Lantern/</id>
+    <published>2015-09-16T09:40:48.000Z</published>
+    <updated>2015-09-16T09:42:31.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="https://github.com/getlantern/lantern" target="_blank" rel="external">github</a><br><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe" target="_blank" rel="external">Windows</a><br><a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg" target="_blank" rel="external">OS X</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="https://github.com/getlantern/lantern" target="_blank" rel="external">github</a><br><a href="https://raw.githubusercontent.com/g]]>
+    </summary>
+    
+      <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[直到迷梦崩塌——评《万物生长》]]></title>
@@ -48,7 +64,7 @@
     <link href="http://hbyls.org/post/MentalLiveInVox/"/>
     <id>http://hbyls.org/post/MentalLiveInVox/</id>
     <published>2015-09-14T04:45:04.000Z</published>
-    <updated>2015-09-14T05:15:19.000Z</updated>
+    <updated>2015-09-15T12:29:56.000Z</updated>
     <content type="html"><![CDATA[<p>加入Mental乐队后的第一场演出Live in VoxLiveHouse </p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_11.jpg" alt="Mental"></p>
 <a id="more"></a>
@@ -63,6 +79,7 @@
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_23.jpg" alt="Mental"></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_24.jpg" alt="Mental"></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_25.jpg" alt="Mental"></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_33.jpg" alt="Mental"></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_31.jpg" alt="Mental"></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_32.jpg" alt="Mental"></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Mental_41.jpg" alt="Mental"></p>
@@ -132,7 +149,7 @@
     <link href="http://hbyls.org/post/FenderModification/"/>
     <id>http://hbyls.org/post/FenderModification/</id>
     <published>2015-09-02T09:23:12.000Z</published>
-    <updated>2015-09-14T05:13:13.000Z</updated>
+    <updated>2015-09-15T12:37:48.000Z</updated>
     <content type="html"><![CDATA[<p>也许是审美疲劳了，暑假的时候深度改造了我的琴.</p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_FenderOrigional.jpg" alt=""></p>
 <a id="more"></a>
@@ -160,6 +177,9 @@
 <p><a href="http://www.g-gotoh.com/international/?btp_product=vs100n" target="_blank" rel="external">VS 100N 官方页面</a></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_VS100N-3.jpg" alt=""></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_Wilkinson_VS100_Bridge.jpg" alt=""></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_WilkinsonMod_1.jpg" alt=""></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_WilkinsonMod_2.jpg" alt=""></p>
+<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_WilkinsonMod_finished.jpg" alt=""></p>
 <h3 id="Fender_N3_Noiseless_With_S1_System">Fender N3 Noiseless With S1 System</h3><p>之前还特意研究了一下各种S1的接法</p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_N3_Noiseless_With_S1_Switch.jpg" alt=""></p>
 ]]></content>
