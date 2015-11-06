@@ -288,8 +288,9 @@ blockquote {
 img {
   display: block;
   margin: auto 0;
-  max-width: 86%;
+  max-width: 93%;
   height: auto;
+  max-height: 700px;
 }
 h2,
 h3,
@@ -961,7 +962,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7cfaff;
+  background: #acbb0f;
 }
 .sidebar-nav {
   margin: 0 0 20px;
