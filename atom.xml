@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://hbyls.org/"/>
-  <updated>2015-11-05T14:07:48.000Z</updated>
+  <updated>2015-11-06T08:11:54.000Z</updated>
   <id>http://hbyls.org/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[《行界：零》]]></title>
-    <link href="http://hbyls.org/post/Xingjie_Zero/"/>
-    <id>http://hbyls.org/post/Xingjie_Zero/</id>
+    <link href="http://hbyls.org/post/WENT_Zero/"/>
+    <id>http://hbyls.org/post/WENT_Zero/</id>
     <published>2015-11-05T13:29:24.000Z</published>
-    <updated>2015-11-05T14:07:48.000Z</updated>
+    <updated>2015-11-06T08:11:54.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_XingjieDesign_7.jpg" alt=""></p>
 <p>游戏的背景是设定在另一个平行世界。</p>
 <p>灵感来源是Google实验室的ingress。</p>
@@ -30,7 +30,7 @@
 <p>这几个月游戏开发进度特别快，游戏策划、UI都已经基本完成了，还确定了名字《行界：零》。</p>
 <p>下午去公司转了一圈，他们正在讨论游戏交互的设计。</p>
 <p>祝“益行游戏”能在互联网的寒冬傲然挺立。</p>
-<a href="!--![](http://7xlieb.com1.z0.glb.clouddn.com/Blog_XingjieDesign_5.jpg)--">!--![](http://7xlieb.com1.z0.glb.clouddn.com/Blog_XingjieDesign_5.jpg)--</a>
+<!-- ![](http://7xlieb.com1.z0.glb.clouddn.com/Blog_XingjieDesign_5.jpg) -->
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_XingjieDesign_6.jpg" alt=""></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_XingjieDesign_1.jpg" alt=""></p>
 <p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_XingjieDesign_3.jpg" alt=""></p>
