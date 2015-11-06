@@ -3,9 +3,9 @@
   <title><![CDATA[S1NH's Blog]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://hbyls.org/"/>
+  <link href="http://www.S1NH.com/"/>
   <updated>2015-11-06T08:22:00.000Z</updated>
-  <id>http://hbyls.org/</id>
+  <id>http://www.S1NH.com/</id>
   
   <author>
     <name><![CDATA[S1NH]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[《行界：零》]]></title>
-    <link href="http://hbyls.org/post/WENT_Zero/"/>
-    <id>http://hbyls.org/post/WENT_Zero/</id>
+    <link href="http://www.S1NH.com/post/WENT_Zero/"/>
+    <id>http://www.S1NH.com/post/WENT_Zero/</id>
     <published>2015-11-05T13:29:24.000Z</published>
     <updated>2015-11-06T08:22:00.000Z</updated>
     <content type="html"><![CDATA[<p><img src="http://7xlieb.com1.z0.glb.clouddn.com/Blog_XingjieDesign_7.jpg" alt=""></p>
@@ -49,18 +49,18 @@
     
     </summary>
     
-      <category term="益行游戏" scheme="http://hbyls.org/tags/%E7%9B%8A%E8%A1%8C%E6%B8%B8%E6%88%8F/"/>
+      <category term="益行游戏" scheme="http://www.S1NH.com/tags/%E7%9B%8A%E8%A1%8C%E6%B8%B8%E6%88%8F/"/>
     
-      <category term="行界" scheme="http://hbyls.org/tags/%E8%A1%8C%E7%95%8C/"/>
+      <category term="行界" scheme="http://www.S1NH.com/tags/%E8%A1%8C%E7%95%8C/"/>
     
-      <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
+      <category term="代码" scheme="http://www.S1NH.com/categories/%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[《Xcode 江湖录》已经定稿]]></title>
-    <link href="http://hbyls.org/post/XcodeJianghu/"/>
-    <id>http://hbyls.org/post/XcodeJianghu/</id>
+    <link href="http://www.S1NH.com/post/XcodeJianghu/"/>
+    <id>http://www.S1NH.com/post/XcodeJianghu/</id>
     <published>2015-11-03T10:33:45.000Z</published>
     <updated>2015-11-03T10:53:30.000Z</updated>
     <content type="html"><![CDATA[<p>写了半年多，经过无数次修改，这本书终于定稿了。主要的内容都是李俊阳编写的，雪婷写的故事，卢力画的插图，我就在里面打了个酱油。期待这本书尽快出版。</p>
@@ -72,14 +72,14 @@
 <p><a href="https://github.com/orgs/Xcode-Jianghu" target="_]]>
     </summary>
     
-      <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
+      <category term="代码" scheme="http://www.S1NH.com/categories/%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[鲸落双城记]]></title>
-    <link href="http://hbyls.org/post/FallingWhaleLive_201511/"/>
-    <id>http://hbyls.org/post/FallingWhaleLive_201511/</id>
+    <link href="http://www.S1NH.com/post/FallingWhaleLive_201511/"/>
+    <id>http://www.S1NH.com/post/FallingWhaleLive_201511/</id>
     <published>2015-11-01T09:59:46.000Z</published>
     <updated>2015-11-03T10:49:32.000Z</updated>
     <content type="html"><![CDATA[<p>新加入鲸落乐队，我当Bass手。弹Bass没什么存在感，可是玩的很开心:-) </p>
@@ -118,18 +118,18 @@
     
     </summary>
     
-      <category term="Live" scheme="http://hbyls.org/tags/Live/"/>
+      <category term="Live" scheme="http://www.S1NH.com/tags/Live/"/>
     
-      <category term="鲸落" scheme="http://hbyls.org/tags/%E9%B2%B8%E8%90%BD/"/>
+      <category term="鲸落" scheme="http://www.S1NH.com/tags/%E9%B2%B8%E8%90%BD/"/>
     
-      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="http://www.S1NH.com/categories/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Lantern V2.0]]></title>
-    <link href="http://hbyls.org/post/Lantern/"/>
-    <id>http://hbyls.org/post/Lantern/</id>
+    <link href="http://www.S1NH.com/post/Lantern/"/>
+    <id>http://www.S1NH.com/post/Lantern/</id>
     <published>2015-09-16T09:40:48.000Z</published>
     <updated>2015-11-05T13:23:31.000Z</updated>
     <content type="html"><![CDATA[<p>我一直会推荐朋友用Lantern进行翻墙，最新的V2.0不需要Java环境，并且安装特别简单。</p>
@@ -147,14 +147,14 @@
 </code></pre><p><img src=]]>
     </summary>
     
-      <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
+      <category term="代码" scheme="http://www.S1NH.com/categories/%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[2015.09.08 演出照片]]></title>
-    <link href="http://hbyls.org/post/MentalLiveInVox_20150908/"/>
-    <id>http://hbyls.org/post/MentalLiveInVox_20150908/</id>
+    <link href="http://www.S1NH.com/post/MentalLiveInVox_20150908/"/>
+    <id>http://www.S1NH.com/post/MentalLiveInVox_20150908/</id>
     <published>2015-09-14T04:45:04.000Z</published>
     <updated>2015-11-01T10:18:03.000Z</updated>
     <content type="html"><![CDATA[<p>加入Mental乐队后的第一场演出，在武汉的Vox酒吧。</p>
@@ -186,20 +186,20 @@
     
     </summary>
     
-      <category term="Live" scheme="http://hbyls.org/tags/Live/"/>
+      <category term="Live" scheme="http://www.S1NH.com/tags/Live/"/>
     
-      <category term="Mental" scheme="http://hbyls.org/tags/Mental/"/>
+      <category term="Mental" scheme="http://www.S1NH.com/tags/Mental/"/>
     
-      <category term="Vox" scheme="http://hbyls.org/tags/Vox/"/>
+      <category term="Vox" scheme="http://www.S1NH.com/tags/Vox/"/>
     
-      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="http://www.S1NH.com/categories/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[红外光学材料均匀性检测仪配套软件]]></title>
-    <link href="http://hbyls.org/post/Infrared_optical_material_detector/"/>
-    <id>http://hbyls.org/post/Infrared_optical_material_detector/</id>
+    <link href="http://www.S1NH.com/post/Infrared_optical_material_detector/"/>
+    <id>http://www.S1NH.com/post/Infrared_optical_material_detector/</id>
     <published>2015-09-11T06:43:28.000Z</published>
     <updated>2015-09-14T05:15:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="算法">算法</h2><h3 id="一个线性时间复杂度的直线检测算法">一个线性时间复杂度的直线检测算法</h3><p>源于一篇IPOL的文章<em><a href="http://www.ipol.im/pub/art/2012/gjmr-lsd/" target="_blank" rel="external">LSD: a Line Segment Detector</a></em>；几个大神的学习日志：<a href="http://blog.csdn.net/polly_yang/article/details/10085401" target="_blank" rel="external">论文回顾之一 一种新的直线段检测算法—-LSD：a Line Segment Detector</a>，<a href="http://blog.csdn.net/tianwaifeimao/article/details/17678669" target="_blank" rel="external">基于LSD的直线提取算法</a></p>
@@ -226,20 +226,20 @@
     
     </summary>
     
-      <category term="LSD" scheme="http://hbyls.org/tags/LSD/"/>
+      <category term="LSD" scheme="http://www.S1NH.com/tags/LSD/"/>
     
-      <category term="Labview" scheme="http://hbyls.org/tags/Labview/"/>
+      <category term="Labview" scheme="http://www.S1NH.com/tags/Labview/"/>
     
-      <category term="红外光学材料均匀性检测仪" scheme="http://hbyls.org/tags/%E7%BA%A2%E5%A4%96%E5%85%89%E5%AD%A6%E6%9D%90%E6%96%99%E5%9D%87%E5%8C%80%E6%80%A7%E6%A3%80%E6%B5%8B%E4%BB%AA/"/>
+      <category term="红外光学材料均匀性检测仪" scheme="http://www.S1NH.com/tags/%E7%BA%A2%E5%A4%96%E5%85%89%E5%AD%A6%E6%9D%90%E6%96%99%E5%9D%87%E5%8C%80%E6%80%A7%E6%A3%80%E6%B5%8B%E4%BB%AA/"/>
     
-      <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
+      <category term="代码" scheme="http://www.S1NH.com/categories/%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[深度改造墨标 013-4602]]></title>
-    <link href="http://hbyls.org/post/FenderModification/"/>
-    <id>http://hbyls.org/post/FenderModification/</id>
+    <link href="http://www.S1NH.com/post/FenderModification/"/>
+    <id>http://www.S1NH.com/post/FenderModification/</id>
     <published>2015-09-02T09:23:12.000Z</published>
     <updated>2015-09-15T12:37:48.000Z</updated>
     <content type="html"><![CDATA[<p>也许是审美疲劳了，暑假的时候深度改造了我的琴.</p>
@@ -281,14 +281,14 @@
     
     </summary>
     
-      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="http://www.S1NH.com/categories/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Fender S-1 开关的接法]]></title>
-    <link href="http://hbyls.org/post/Fender_S-1_WiringDiagram/"/>
-    <id>http://hbyls.org/post/Fender_S-1_WiringDiagram/</id>
+    <link href="http://www.S1NH.com/post/Fender_S-1_WiringDiagram/"/>
+    <id>http://www.S1NH.com/post/Fender_S-1_WiringDiagram/</id>
     <published>2015-09-02T06:29:25.000Z</published>
     <updated>2015-09-14T05:12:39.000Z</updated>
     <content type="html"><![CDATA[<p>最近在改造吉他的电路，搜集了一些关于拾音器电路的网站：</p>
@@ -310,20 +310,20 @@
     
     </summary>
     
-      <category term="S1" scheme="http://hbyls.org/tags/S1/"/>
+      <category term="S1" scheme="http://www.S1NH.com/tags/S1/"/>
     
-      <category term="fender" scheme="http://hbyls.org/tags/fender/"/>
+      <category term="fender" scheme="http://www.S1NH.com/tags/fender/"/>
     
-      <category term="wiring diagram" scheme="http://hbyls.org/tags/wiring-diagram/"/>
+      <category term="wiring diagram" scheme="http://www.S1NH.com/tags/wiring-diagram/"/>
     
-      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="http://www.S1NH.com/categories/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[GuitarFreak，一个可以模拟吉他电路对频响曲线影响的软件]]></title>
-    <link href="http://hbyls.org/post/GuitarFreak/"/>
-    <id>http://hbyls.org/post/GuitarFreak/</id>
+    <link href="http://www.S1NH.com/post/GuitarFreak/"/>
+    <id>http://www.S1NH.com/post/GuitarFreak/</id>
     <published>2015-09-01T12:28:58.000Z</published>
     <updated>2015-09-14T05:15:25.000Z</updated>
     <content type="html"><![CDATA[<p>在《吉他中国论坛》发现了一个基于Excel的软件，可以模拟拾音器、电路、吉他连线等各环节对频响的影响。</p>
@@ -340,18 +340,18 @@
     
     </summary>
     
-      <category term="GuitarFreak" scheme="http://hbyls.org/tags/GuitarFreak/"/>
+      <category term="GuitarFreak" scheme="http://www.S1NH.com/tags/GuitarFreak/"/>
     
-      <category term="wiring diagram" scheme="http://hbyls.org/tags/wiring-diagram/"/>
+      <category term="wiring diagram" scheme="http://www.S1NH.com/tags/wiring-diagram/"/>
     
-      <category term="音乐" scheme="http://hbyls.org/categories/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="http://www.S1NH.com/categories/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://hbyls.org/post/hello-world/"/>
-    <id>http://hbyls.org/post/hello-world/</id>
+    <link href="http://www.S1NH.com/post/hello-world/"/>
+    <id>http://www.S1NH.com/post/hello-world/</id>
     <published>2015-06-22T10:25:50.000Z</published>
     <updated>2015-09-14T05:16:29.000Z</updated>
     <content type="html"><![CDATA[<p>放弃了之前的博客平台，采用现在比较流行的<strong>“Hexo+GitHub+七牛”</strong>作为新的博客平台。</p>
@@ -379,7 +379,7 @@
     
     </summary>
     
-      <category term="代码" scheme="http://hbyls.org/categories/%E4%BB%A3%E7%A0%81/"/>
+      <category term="代码" scheme="http://www.S1NH.com/categories/%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
